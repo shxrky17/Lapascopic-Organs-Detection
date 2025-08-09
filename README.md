@@ -15,14 +15,12 @@ This work is part of our **final year B.Tech project**.
 ---
 
 ## 📂 Repository Structure
-├── dataset.ipynb # Dataset preprocessing and preparation
-├── yash.ipynb # Model training and evaluation
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
-
-yaml
-Copy
-Edit
+`
+├── dataset.ipynb 
+├── yash.ipynb
+├── README.md 
+└── requirements.txt
+`
 
 ---
 
