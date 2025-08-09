@@ -83,6 +83,7 @@ Real-time processing from live surgical feeds.
 Integrate with augmented reality surgical guidance systems.
 
 ## 👥 Team Members
+```markdown
 Ayush Aote
 Yash Chafle
 Atharva Joshi
@@ -91,7 +92,4 @@ Prathamesh Patil
 Vedant Itankar
 
 Mentor: Prof. Ganesh Yenurkar
-
-Yash Chafle
-
-Mentor: [Mentor’s Name]
+```
