@@ -1,33 +1,33 @@
-🩺 Laparoscopic Organs Detection
-📌 Overview
+## 🩺 Laparoscopic Organs Detection
+## 📌 Overview
 This project focuses on organ detection and classification from laparoscopic surgical images using deep learning techniques. The goal is to assist surgeons during minimally invasive surgeries by automatically identifying organs, improving navigation, reducing operation time, and minimizing risks.
 
 This work is part of our final year B.Tech project.
 
-🎯 Objectives
+## 🎯 Objectives
 Build an AI-powered system to classify organs in laparoscopic surgery images.
 
 Leverage deep learning models to achieve high accuracy in real-world scenarios.
 
 Lay the groundwork for integration into real-time surgical assistance tools.
 
-📂 Repository Structure
+## 📂 Repository Structure
 `
 ├── dataset.ipynb          # Dataset preprocessing and preparation
 ├── yash.ipynb             # Model training and evaluation
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies
 `
-🛠️ Methodology
-Dataset Preparation
+## 🛠️ Methodology
+### Dataset Preparation
 
-Collected laparoscopic images from publicly available datasets.
+### Collected laparoscopic images from publicly available datasets.
 
-Preprocessed data (resizing, normalization, augmentation).
+### Preprocessed data (resizing, normalization, augmentation).
 
-Created labeled datasets for training.
+### Created labeled datasets for training.
 
-Model Development
+### Model Development
 
 Implemented deep learning architectures for classification.
 
